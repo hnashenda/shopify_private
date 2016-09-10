@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  shopify_product_id: 1
+  last_shopify_sync: 2016-09-10 21:26:27
+
+two:
+  name: MyString
+  shopify_product_id: 1
+  last_shopify_sync: 2016-09-10 21:26:27
